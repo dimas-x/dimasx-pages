@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkDimasx_pages=self.webpackChunkDimasx_pages||[]).push([["2770"],{1636(s,e,a){a.r(e),a.d(e,{default:()=>u});var r=a(4848),t=a(6347);function u(){return(0,r.jsx)(t.rd,{to:"/docs/intro"})}}}]);
