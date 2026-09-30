@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dimas-x.github.io/dimasx-pages/blog"/>
     <subtitle>Dimas X Blog</subtitle>
-    <icon>https://dimas-x.github.io/dimasx-pages/img/favicon.ico</icon>
+    <icon>https://dimas-x.github.io/dimasx-pages/img/dimasx-favicon.svg</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://dimas-x.github.io/dimasx-pages/blog/welcome</id>
