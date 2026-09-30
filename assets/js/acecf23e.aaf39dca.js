@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkDimasx_pages=self.webpackChunkDimasx_pages||[]).push([["3220"],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Notas","authorsListPath":"/blog/authors"}')}}]);
